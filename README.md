@@ -73,7 +73,7 @@ email-system/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/email-system.git
+git clone https://github.com/nup2112/email-system.git
 cd email-system
 ```
 
