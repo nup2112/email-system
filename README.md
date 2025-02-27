@@ -2,7 +2,7 @@
 
 Un sistema completo de envío de emails con arquitectura moderna basada en FastAPI, plantillas HTML responsivas, y una aplicación de prueba con GUI.
 
-![Email System GUI](https://via.placeholder.com/800x450?text=Email+System+GUI)
+![Email System GUI](main_screen.png)
 
 ## ✨ Características
 
